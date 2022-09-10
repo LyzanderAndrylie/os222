@@ -1,0 +1,23 @@
+---
+permalink: LINKS/
+---
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<br><br>
+[HOME](.) ---
+[LINKS](/LINKS/) ---
+[LOG](TXT/mylog.txt) ---
+[GITHUB](https://github.com/LyzanderAndrylie/os222)
+<br>
+<hr>
+
+# LINKS
+
+1. [Google](https://www.google.com/)<br>
+This almighty Google has everything you need to overcome this course :). This site will answer all of your questions about OS.
+
+2. [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+This site contains introduction to Unix Shell and will teach you from the very beginning about shell command, etc. Beside of that, this site also has exercises that help you to understand shell command and practice it immediately.
+<br>
+<hr>
+<hr>
+<br>
