@@ -21,6 +21,11 @@ This site contains introduction to Unix Shell and will teach you from the very b
 3. [Unix/Linux Command Reference](https://files.fosswire.com/2007/08/fwunixref.pdf)<br>
 This pdf contains the most basic command for Unix/Linux that you can use for OS. It also givea brief description for each command.
 
+4. [Linux Grep Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheetgrep.php)<br>
+This tutorial contains basic usage of grep. This cheat sheet is intended to be a quick reminder for the main concepts involved in using the command line program grep.
+
+5. [Regex 101](https://regex101.com/)<br>
+This Website is really useful for testing regular expression. You can also check whether your regex already match or not. 
 
 <br>
 <hr>
