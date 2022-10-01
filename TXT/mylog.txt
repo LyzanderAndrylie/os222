@@ -30,3 +30,12 @@ ZCZC W03 100 L02 ZOOM meetings related
 ZCZC W03 100 L99 Face-to-face lectures
 ZCZC W03 375 L09 Weekly Assignments Week 02
 ZCZC W03 10 L05 QUIZ
+
+ZCZC W03 10 L00 General, etc.
+ZCZC W03 10 L01 SCELE related
+ZCZC W03 10 L03 GitHub related
+ZCZC W03 100 L02 ZOOM meetings related
+ZCZC W03 100 L99 Face-to-face lectures
+ZCZC W03 300 L09 Weekly Assignments Week 02
+ZCZC W03 20 L05 QUIZ
+
