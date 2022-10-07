@@ -30,6 +30,8 @@ This Website is really useful for testing regular expression. You can also check
 6. [C Online Compiler](https://www.programiz.com/c-programming/online-compiler/)<br>
 This site allows us to run and compile C programs online. It will be very usefull for us if we want to check our C program immediately.
 
+7. [C Reference Cheat Sheet](https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/)<br>
+This site contains cheat sheet for C syntax, data types, structure, and common library functions. This one is really useful to understand something related to C immediately.
 
 <br>
 <hr>
