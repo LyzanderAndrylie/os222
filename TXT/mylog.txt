@@ -28,7 +28,7 @@ ZCZC W03 10 L01 SCELE related
 ZCZC W03 10 L03 GitHub related
 ZCZC W03 100 L02 ZOOM meetings related
 ZCZC W03 100 L99 Face-to-face lectures
-ZCZC W03 375 L09 Weekly Assignments Week 02
+ZCZC W03 375 L09 Weekly Assignments Week 03
 ZCZC W03 10 L05 QUIZ
 
 ZCZC W04 10 L00 General, etc.
@@ -36,7 +36,7 @@ ZCZC W04 10 L01 SCELE related
 ZCZC W04 10 L03 GitHub related
 ZCZC W04 100 L02 ZOOM meetings related
 ZCZC W04 100 L99 Face-to-face lectures
-ZCZC W04 300 L09 Weekly Assignments Week 02
+ZCZC W04 300 L09 Weekly Assignments Week 04
 ZCZC W04 20 L05 QUIZ
 
 ZCZC W05 10 L00 General, etc.
@@ -44,6 +44,13 @@ ZCZC W05 10 L01 SCELE related
 ZCZC W05 10 L03 GitHub related
 ZCZC W05 100 L02 ZOOM meetings related
 ZCZC W05 100 L99 Face-to-face lectures
-ZCZC W05 200 L09 Weekly Assignments Week 02
+ZCZC W05 200 L09 Weekly Assignments Week 05
 ZCZC W05 30 L05 QUIZ
+
+ZCZC W06 10 L00 General, etc.
+ZCZC W06 10 L01 SCELE related 
+ZCZC W06 10 L03 GitHub related
+ZCZC W06 200 L02 ZOOM meetings related
+ZCZC W06 200 L09 Weekly Assignments Week 06
+ZCZC W06 30 L05 QUIZ
 
