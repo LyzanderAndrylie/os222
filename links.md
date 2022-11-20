@@ -39,6 +39,8 @@ Good introduction about fork() in C. This site tell you about basic fork() in C.
 9. [Youtube](https://www.youtube.com/)<br>
 You can watch everything you need to pass this course.
 
+10. [LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+This playlist is very helpful to do LFS.
 
 <br>
 <hr>
